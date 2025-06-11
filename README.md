@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Louis
-Aspiring cybersecurity analyst | Python enthusiast | Lifelong learner
+Aspiring cybersecurity analyst | Python enthusiast | Lifelong learner | Machine Learning/Deep Learning
 
 ## 🔐 Current Learning
 - Google Cybersecurity Professional Certificate (Coursera)

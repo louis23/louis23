@@ -6,6 +6,7 @@ Aspiring cybersecurity analyst | Python enthusiast | Lifelong learner
 - TryHackMe SOC Analyst Pathway
 
 ## 🧪 Projects & Labs
+-  🏴‍☠️ [Suits x Steganography](https://github.com/louis23/suits-stego-ctf/) (Did Mike Ross snitch on Rachel Zane?)
 - 🔎 [SOC Labs - TryHackMe](https://tryhackme.com/)
   - Packet analysis with Wireshark
   - Log triage and alert investigation

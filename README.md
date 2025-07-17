@@ -2,6 +2,7 @@
 Aspiring cybersecurity analyst | Python enthusiast | Lifelong learner | Machine Learning/Deep Learning
 
 ## 🔐 Current Learning
+- Centre for Cybersecurity Institute
 - Google Cybersecurity Professional Certificate (Coursera)
 - TryHackMe SOC Analyst Pathway
 
@@ -12,11 +13,12 @@ Aspiring cybersecurity analyst | Python enthusiast | Lifelong learner | Machine 
 - [Spotify Hit Predictor](https://github.com/louis23/spotify-top-hits)
 
 ### Cybersecurity
-- 🕵️ [Suits x Steganography](https://github.com/louis23/suits-stego-ctf/) (Did Mike Ross snitch on Rachel Zane?)
+- 🕵️ [Suits x Steganography](https://github.com/louis23/suits-stego-ctf/) (A beginner project built on Streamlit, where a secret message is hidden beneath an image and decode it afterwards)
 - 🔎 [SOC Labs - TryHackMe](https://tryhackme.com/)
   - Packet analysis with Wireshark
   - Log triage and alert investigation
-- 🐍 [Python Security Script (coming soon)]()
+- [Kali Linux](https://github.com/Louis-s-Cybersecurity-Portfolio/kali-linux)
+- 🐍 [Python Security Script (coming soon)]
   
 
 ## 🧰 Tools & Skills

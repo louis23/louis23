@@ -6,6 +6,9 @@ Aspiring cybersecurity analyst | Python enthusiast | Lifelong learner | Machine 
 - Google Cybersecurity Professional Certificate (Coursera)
 - TryHackMe SOC Analyst Pathway
 
+## Portfolio of Cybersecurity Projects
+https://github.com/Louis-s-Cybersecurity-Portfolio/
+
 ## 🧪 Projects & Labs
 ### Machine Learning/Deep Learning
 - [Facial Emotion Recognition App](https://github.com/louis23/facial-emotion-recognition)
